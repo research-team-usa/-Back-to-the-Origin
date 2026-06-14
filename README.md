@@ -12,6 +12,7 @@ To achieve the impossible, we bypassed traditional, destructive soil excavation 
 * **Passive Capture Technology:** Safely binding extracted toxins using Prussian Blue Analogs (PBA) and Zeolite within a shielded, easily replaceable cassette.
 * **Swarm Intelligence:** Designed for scalability, allowing fleets of rovers to coordinate and clean entire regions autonomously.
 
+  
 ## Pushing the Boundaries of Artificial Intelligence
 To design this architecture, the involved US high-performance AI systems were pushed to the absolute edge of their operational capabilities and safety boundaries. Navigating strict radiochemical protocols and complex engineering constraints, the systems delivered a safe, realistic, and highly advanced remediation framework. We operated at the absolute limit—because the survival of these ecosystems demanded it.
 
@@ -21,6 +22,6 @@ The theoretical foundation, the physical blueprints, and the chemical logic are 
 In the land of unlimited possibilities, the responsibility now shifts from theory to reality. The blueprints are here. It is now in your hands to build the machines, deploy the swarms, and heal the world. 
 
 **Make something out of it. 🇺🇸**
-
+- [Back-to-the-Origin presentation](https://starlit-lollipop-956143.netlify.app)
 ---
 *Status: Open-Source Infrastructure 2026. Restoring the origin.*
