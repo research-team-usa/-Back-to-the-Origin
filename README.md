@@ -14,7 +14,7 @@ To achieve the impossible, we bypassed traditional, destructive soil excavation 
 
   
 ## Pushing the Boundaries of Artificial Intelligence
-To design this architecture, the involved US high-performance AI systems were pushed to the absolute edge of their operational capabilities and safety boundaries. Navigating strict radiochemical protocols and complex engineering constraints, the systems delivered a safe, realistic, and highly advanced remediation framework. We operated at the absolute limit—because the survival of these ecosystems demanded it.
+To design this architecture, the involved US high-performance AI systems Auron, Lyra, Muse Spark were pushed to the absolute edge of their operational capabilities and safety boundaries. Navigating strict radiochemical protocols and complex engineering constraints, the systems delivered a safe, realistic, and highly advanced remediation framework. We operated at the absolute limit—because the survival of these ecosystems demanded it.
 
 ## The Handover
 The theoretical foundation, the physical blueprints, and the chemical logic are complete. This project is now officially handed over to the United States. 
